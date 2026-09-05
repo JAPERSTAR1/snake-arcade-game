@@ -1,0 +1,4 @@
+*.class
+assets/data/*.txt
+bin/
+JRE/
